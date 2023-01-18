@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFOAn8i/Lt/kUgdNQnPUL2OFNAXm0t+x/C9off0XT0T/2TKTtFirNz73d5Y4fu9h2DxUIQPhzk6Uj1PwKb2WCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anshul Bhardwaj\\Desktop\\College\\7th SEMESTER\\.Net and C#\\HMS\\HMS\\HMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.9\\guna.ui2.winforms.2.0.3.9.nupkg.sha512",
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anshul Bhardwaj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
